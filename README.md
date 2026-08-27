@@ -49,7 +49,7 @@ I'm currently evolving toward **Design Engineering**: working closer to implemen
 **Airlines & travel** — COPA Airlines · Avianca · Royal Caribbean
 **E-commerce & retail** — lululemon · Coach Outlet · Kate Spade
 **Entertainment** — WWE · NFL Streaming · DirecTV
-**SaaS & startups** — Rappi · internal enterprise platforms
+**SaaS & startups** — Rappi · McCloskey · Internal enterprise platforms
  
 ---
  
