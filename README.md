@@ -5,7 +5,7 @@
  
 ---
  
-I've spent 15 years designing digital products through consulting — embedded with client teams at **Globant**, **EPAM**, **Publicis Sapient**, **Intive**, **Blankfactor** and **BlueCloud**, across airlines, cruise lines, entertainment, e-commerce, SaaS and fintech.
+I've spent 18 years designing digital products through consulting — embedded with client teams at **Globant**, **EPAM**, **Publicis Sapient**, **Intive**, **Blankfactor** and **BlueCloud**, across airlines, cruise lines, entertainment, e-commerce, SaaS and fintech.
  
 What I enjoy most are complex products: internal tools, platforms and systems where the hard part isn't making a screen look good — it's making something complicated feel obvious.
  
