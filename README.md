@@ -65,6 +65,12 @@ I'm currently evolving toward **Design Engineering**: working closer to implemen
 🔗 **Full portfolio:** [juanpatamayo.webflow.io](https://juanpatamayo.webflow.io)
  
 ---
+
+### Mi Actividad reciente en GitHub
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
  
 ## 📫 Get in touch
  
